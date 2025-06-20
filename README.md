@@ -1,4 +1,4 @@
-# Vendor-Recommendation-Event-Planning-AI
+   # Vendor-Recommendation-Event-Planning-AI
 
 # Overview
 This is a basic AI concept for recommending vendors and planning events. It accepts:
