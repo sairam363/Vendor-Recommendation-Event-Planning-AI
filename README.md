@@ -17,7 +17,7 @@ Recommends top 3 vendors per category (Catering, Photography, Venue)
   No external APIs used (mock data only)
 
 # How to Run
-1. Open `Vendor_Recommendation_&_Event_Planning_AI.ipynb` in Colab or Jupyter
+1. Open `Vendor_Recommendation_&_Event_Planning_AI.ipynb` in Colab 
 2. Run all cells
 3. Enter your event details
 4. Get vendor suggestions and your planning steps
