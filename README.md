@@ -25,8 +25,9 @@ Recommends top 3 vendors per category (Catering, Photography, Venue)
 
 ## Author
 Sairam Devarakonda — For UtsavAi Internship Round 1
-Did not create any user interface (UI) because it was mentioned to keep it simple to evaluate logic and creativity.
+
 
 ---
+ Did not create any user interface (UI) because it was mentioned to keep it simple to evaluate logic and creativity.
 
  Not a perfect AI model — but a smart concept to showcase logic & creativity.
